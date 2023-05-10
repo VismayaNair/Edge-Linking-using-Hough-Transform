@@ -83,7 +83,7 @@ plt.axis('off')
 
 <br>![output](d1.png)
 
-<br>![output](d2.png)
+<br>
 <br>
 
 ### Canny Edge detector output
